@@ -1,4 +1,4 @@
-kill @a
+execute as @a run damage @s 100
 scoreboard players set @a deaths 0
 
 say I killed everyone :(
