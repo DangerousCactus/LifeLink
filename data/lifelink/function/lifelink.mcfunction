@@ -8,4 +8,4 @@ title @a subtitle {"text":"they must not be very good", "italic":true, "color":"
 title @a times 40 100 60
 
 spreadplayers 0 0 100 100000 true @a
-execute at @s run schedule function lifelink:random_spawn_delay 2s
+execute at @s run schedule function lifelink:random_spawn_delay 1.5s

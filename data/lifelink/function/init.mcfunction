@@ -1,3 +1,4 @@
+scoreboard objectives add death deathCount
 scoreboard players set @a death 0
 
 say This DataPack was made with Bulgarian Engineering™
