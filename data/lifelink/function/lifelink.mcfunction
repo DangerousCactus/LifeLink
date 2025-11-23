@@ -1,5 +1,5 @@
 execute as @a run kill
-scoreboard players set @a deaths 0
+scoreboard players set @a death 0
 
 say Inta
 
