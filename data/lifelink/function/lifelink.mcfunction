@@ -7,5 +7,5 @@ title @a title ["",{"selector":"@s"}," inted"]
 title @a subtitle {"text":"they must not be very good", "italic":true, "color":"yellow"}
 title @a times 40 100 60
 
-spreadplayers 0 0 100 100000 true @a
+execute in minecraft:overworld run spreadplayers 0 0 100 100000 true @a
 execute at @s run schedule function lifelink:random_spawn_delay 1.5s
